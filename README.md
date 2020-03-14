@@ -12,3 +12,6 @@ Technologies Used
 4. Command Line Args
 5. Data Storing with JSON
 6. ES6 Aside: Arrow Functions
+
+Blogpost in Medium:
+https://medium.com/@bhavyasri.y/commands-i-learnt-while-implementing-notes-app-in-node-js-part-1-294e8bbe40
